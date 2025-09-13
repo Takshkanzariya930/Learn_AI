@@ -1,0 +1,1510 @@
+{
+    "chunk": [
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 0.0,
+            "end": 5.4,
+            "text": " Hello, how are you all? Welcome to Chai Aur Code."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 5.4,
+            "end": 10.0,
+            "text": " Before we move to the video, first of all, thank you so much to all of you."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 10.0,
+            "end": 15.200000000000001,
+            "text": " It feels great to see how much you are sharing the channel, how many comments you are making."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 15.200000000000001,
+            "end": 17.8,
+            "text": " And the growth of the channel is very good."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 17.8,
+            "end": 20.2,
+            "text": " The channel is reaching almost every corner."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 20.2,
+            "end": 23.2,
+            "text": " It is one of the fastest growing channels."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 23.2,
+            "end": 27.0,
+            "text": " And we have always increased the quality of production."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 27.0,
+            "end": 33.2,
+            "text": " Whether it is audio quality, video quality, or content quality, we have always tried to raise the bar."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 33.2,
+            "end": 41.2,
+            "text": " And you all have also supported us a lot in the comments, appreciation, personal DMs, by sharing each story and incident."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 41.2,
+            "end": 44.0,
+            "text": " So first of all, thank you so much for all of that."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 44.0,
+            "end": 46.400000000000006,
+            "text": " You are doing your maximum as much as you can."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 46.400000000000006,
+            "end": 50.2,
+            "text": " And this is the big thing that you are spreading the channel as much as you can."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 50.2,
+            "end": 52.8,
+            "text": " You are contributing on your own. Thank you so much."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 52.8,
+            "end": 55.400000000000006,
+            "text": " Now let's come to our big launch."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 55.6,
+            "end": 58.6,
+            "text": " Often, there are launches in the world of EdTech."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 58.6,
+            "end": 60.6,
+            "text": " And it should be. This is a good thing."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 60.6,
+            "end": 62.8,
+            "text": " So this is our mega big launch."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 62.8,
+            "end": 65.0,
+            "text": " Whenever we launch, we launch big."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 65.0,
+            "end": 67.4,
+            "text": " And eventually, we bring one of the best series."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 67.4,
+            "end": 70.4,
+            "text": " So in this launch, there is another launch in front of you."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 70.4,
+            "end": 73.6,
+            "text": " This is web development with Python using Django."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 73.6,
+            "end": 78.6,
+            "text": " So the series of Chai and Django is starting with this video today."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 78.6,
+            "end": 80.2,
+            "text": " So what is Django?"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 80.2,
+            "end": 82.6,
+            "text": " What are the prerequisites for this?"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 82.8,
+            "end": 85.39999999999999,
+            "text": " What is the target audience of this playlist?"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 85.39999999999999,
+            "end": 86.8,
+            "text": " We will talk about all of that."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 86.8,
+            "end": 90.8,
+            "text": " I would also like to tell you a little bit about video frequency in this video."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 90.8,
+            "end": 92.0,
+            "text": " What all do you need?"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 92.0,
+            "end": 93.6,
+            "text": " What can we do in the end?"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 93.6,
+            "end": 97.19999999999999,
+            "text": " And how will we open a new web development paradigm?"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 97.19999999999999,
+            "end": 98.8,
+            "text": " There is a video on all of these."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 98.8,
+            "end": 101.6,
+            "text": " And yes, you will get the entire playlist on YouTube."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 101.6,
+            "end": 105.6,
+            "text": " Apart from this, you will also get blogs on ChaiCode.com."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 105.6,
+            "end": 107.0,
+            "text": " Which will be a complete walkthrough."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 107.0,
+            "end": 108.6,
+            "text": " Whatever we do in the course."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 108.8,
+            "end": 113.0,
+            "text": " Or whatever important points, code files, you will get all of that there."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 113.0,
+            "end": 115.39999999999999,
+            "text": " So I have written a lot of articles in this series."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 115.39999999999999,
+            "end": 116.39999999999999,
+            "text": " And I will write more in the future."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 116.39999999999999,
+            "end": 119.8,
+            "text": " So you will get all of that on ChaiCode.com."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 119.8,
+            "end": 121.0,
+            "text": " Everything else is on the channel."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 121.0,
+            "end": 122.19999999999999,
+            "text": " There is no problem."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 122.19999999999999,
+            "end": 125.19999999999999,
+            "text": " If you have not joined the Discord yet, then join there."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 125.19999999999999,
+            "end": 127.8,
+            "text": " There are a lot of mentors there who help you."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 127.8,
+            "end": 129.79999999999998,
+            "text": " All of that is also included with this."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 129.79999999999998,
+            "end": 133.79999999999998,
+            "text": " By the way, mock tests and resume reviews are also done there."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 133.79999999999998,
+            "end": 135.0,
+            "text": " Anyway, let's come back."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 135.2,
+            "end": 138.8,
+            "text": " First of all, we come to our prerequisites."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 138.8,
+            "end": 143.8,
+            "text": " To see this Chai and Django series, what all do you need to know about the prerequisites?"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 143.8,
+            "end": 145.0,
+            "text": " It's small, not much."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 145.0,
+            "end": 147.0,
+            "text": " We will discuss a little bit on that too."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 147.0,
+            "end": 149.0,
+            "text": " So you only need these two things."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 149.0,
+            "end": 152.4,
+            "text": " Which you should know before jumping on Django."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 152.4,
+            "end": 154.4,
+            "text": " First of all, you should know Python."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 154.4,
+            "end": 160.2,
+            "text": " All the Python that I have made Chai and Python in this channel's playlist, you should know that."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 160.39999999999998,
+            "end": 167.0,
+            "text": " All the basic requirements like decorators, I have taken a lot of depth on that."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 167.0,
+            "end": 168.6,
+            "text": " I have covered the whole breadth and width."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 168.6,
+            "end": 170.0,
+            "text": " So you can see from there."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 170.0,
+            "end": 173.0,
+            "text": " If you feel that I have learned from somewhere else and have that much confidence,"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 173.0,
+            "end": 174.2,
+            "text": " then also there is no problem."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 174.2,
+            "end": 175.39999999999998,
+            "text": " You can continue that too."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 175.39999999999998,
+            "end": 178.0,
+            "text": " Whichever favorite instructor you have learned from, that is also a good thing."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 178.0,
+            "end": 181.6,
+            "text": " Apart from this, we will not touch HTML and CSS much."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 181.6,
+            "end": 183.6,
+            "text": " I believe you know HTML."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 183.6,
+            "end": 185.0,
+            "text": " If you don't know, then there is a playlist for that too."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 185.0,
+            "end": 188.39999999999998,
+            "text": " As such, there is no need to worry about CSS."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 188.6,
+            "end": 192.20000000000002,
+            "text": " Changing the background color, changing the text color, moving the text from here to there,"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 192.20000000000002,
+            "end": 193.4,
+            "text": " left, right, orientation."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 193.4,
+            "end": 196.0,
+            "text": " We will do this in small, not much extreme."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 196.0,
+            "end": 200.0,
+            "text": " Mostly we depend on libraries like Shadsea and Tailwind."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 200.0,
+            "end": 202.20000000000002,
+            "text": " So we will not write extreme CSS anywhere."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 202.20000000000002,
+            "end": 205.0,
+            "text": " So in case you know a little bit about how to make buttons."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 205.0,
+            "end": 207.0,
+            "text": " Basic buttons, not too high fancy."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 207.0,
+            "end": 212.4,
+            "text": " How to make basic buttons, how to change the background color, how to make text, how to make text large."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 212.4,
+            "end": 213.4,
+            "text": " That's it."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 213.4,
+            "end": 216.0,
+            "text": " Apart from that, there are no other prerequisites."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 216.0,
+            "end": 217.0,
+            "text": " Okay."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 217.2,
+            "end": 220.6,
+            "text": " Now let's come to what is the series targeted audience."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 220.6,
+            "end": 224.6,
+            "text": " This series is made according to the target of the web developer."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 224.6,
+            "end": 226.6,
+            "text": " That you have to explore web development."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 226.6,
+            "end": 229.8,
+            "text": " Web development is very powerful, especially in Python."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 229.8,
+            "end": 232.6,
+            "text": " Often people come from a single paradigm."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 232.6,
+            "end": 235.8,
+            "text": " What happens is that when you start the journey of development,"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 235.8,
+            "end": 239.8,
+            "text": " then you make a language from a fan favorite of a language."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 239.8,
+            "end": 243.6,
+            "text": " Some people make JavaScript, some people PHP, some people Python."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 243.6,
+            "end": 246.6,
+            "text": " So they never want to shift from that paradigm."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 247.2,
+            "end": 251.0,
+            "text": " I think this is a mistake that you don't want to shift from the paradigm."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 251.0,
+            "end": 254.0,
+            "text": " You have made one thing God that React is everything."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 254.0,
+            "end": 255.6,
+            "text": " Or Node is everything."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 255.6,
+            "end": 258.6,
+            "text": " So you never know that there are other frameworks outside."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 258.6,
+            "end": 262.0,
+            "text": " Which is probably more powerful or less powerful."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 262.0,
+            "end": 264.4,
+            "text": " How can we believe that it is more powerful?"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 264.4,
+            "end": 267.0,
+            "text": " Or we can give development in a rapid pace."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 267.0,
+            "end": 271.8,
+            "text": " Until you explore things, you will not know about it."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 271.8,
+            "end": 275.2,
+            "text": " Another advantage that comes from exploring a new paradigm."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 275.59999999999997,
+            "end": 279.59999999999997,
+            "text": " That many times you get more clearance of the previous paradigm."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 279.59999999999997,
+            "end": 282.59999999999997,
+            "text": " Suppose you have been coding in JavaScript for a long time."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 282.59999999999997,
+            "end": 285.8,
+            "text": " So when you see things here, how views are being made,"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 285.8,
+            "end": 288.0,
+            "text": " how routes are being made, requests are being made."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 288.0,
+            "end": 291.4,
+            "text": " So you get a little clarity somewhere in the other set."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 291.4,
+            "end": 294.4,
+            "text": " That it works like this, it works like this."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 294.4,
+            "end": 296.4,
+            "text": " So this is also an important aspect."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 296.4,
+            "end": 300.4,
+            "text": " Now many people say that I have to do more JavaScript."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 300.4,
+            "end": 303.2,
+            "text": " No problem, you make your JavaScript strong."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 303.2,
+            "end": 305.2,
+            "text": " But when you feel that I make a project,"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 305.2,
+            "end": 308.59999999999997,
+            "text": " then I sit in my free time and see Python."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 308.59999999999997,
+            "end": 312.59999999999997,
+            "text": " Another important thing, many people find Python a fan favorite language."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 312.59999999999997,
+            "end": 315.59999999999997,
+            "text": " They think that after learning Python, I can do web development,"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 315.59999999999997,
+            "end": 317.2,
+            "text": " machine learning, AI."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 317.2,
+            "end": 319.2,
+            "text": " I can do exploration in all of these."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 319.2,
+            "end": 321.2,
+            "text": " And whatever models or whatever I am making,"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 321.2,
+            "end": 323.59999999999997,
+            "text": " I would like to write them directly in Python."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 323.59999999999997,
+            "end": 327.59999999999997,
+            "text": " So in those cases too, Django FastAPI helps a lot."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 327.59999999999997,
+            "end": 329.59999999999997,
+            "text": " Let me tell you one important thing first."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 329.59999999999997,
+            "end": 331.59999999999997,
+            "text": " When you see this Django series,"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 332.0,
+            "end": 334.0,
+            "text": " you will find many people in the comment section."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 334.0,
+            "end": 336.0,
+            "text": " In fact, you will also find them in your class."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 336.0,
+            "end": 338.0,
+            "text": " Who will say something like"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 338.0,
+            "end": 340.0,
+            "text": " that performance does not come in Django."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 340.0,
+            "end": 343.0,
+            "text": " This seems to be the funniest situation to me."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 343.0,
+            "end": 345.0,
+            "text": " They are talking about performance."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 345.0,
+            "end": 347.0,
+            "text": " They are talking about bottlenecks."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 347.0,
+            "end": 351.0,
+            "text": " Whose own application has never seen 5,000 or 1 lakh users."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 351.0,
+            "end": 353.0,
+            "text": " One lakh is a very big number."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 353.0,
+            "end": 355.0,
+            "text": " Not even 5,000 or 10,000 users have seen it."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 355.0,
+            "end": 358.0,
+            "text": " Web development through Python is one of the fastest developments."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 358.4,
+            "end": 360.4,
+            "text": " And there are companies in lakhs,"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 360.4,
+            "end": 362.4,
+            "text": " not thousands, but lakhs of companies"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 362.4,
+            "end": 365.4,
+            "text": " who still use Django on production grade."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 365.4,
+            "end": 367.4,
+            "text": " Django is very powerful."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 367.4,
+            "end": 370.4,
+            "text": " And once you see how rapid development happens"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 370.4,
+            "end": 372.4,
+            "text": " and what batteries are included."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 372.4,
+            "end": 374.4,
+            "text": " I mean, there are some things that you don't have to do."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 374.4,
+            "end": 376.4,
+            "text": " Already cooked in it."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 376.4,
+            "end": 378.4,
+            "text": " So once you see it, you will also feel"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 378.4,
+            "end": 381.4,
+            "text": " that the JavaScript ecosystem is not so matured yet."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 381.4,
+            "end": 384.4,
+            "text": " Now this does not mean that we will leave the JavaScript ecosystem."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 384.4,
+            "end": 386.4,
+            "text": " No, we will do that too."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 386.79999999999995,
+            "end": 388.79999999999995,
+            "text": " So this is a small mindset and overview"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 388.79999999999995,
+            "end": 390.79999999999995,
+            "text": " that what will come in the Django series."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 390.79999999999995,
+            "end": 392.79999999999995,
+            "text": " How?"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 392.79999999999995,
+            "end": 394.79999999999995,
+            "text": " Django is a complete framework."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 394.79999999999995,
+            "end": 396.79999999999995,
+            "text": " We will try to understand this framework first."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 396.79999999999995,
+            "end": 398.79999999999995,
+            "text": " Because it has a lot of nuances."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 398.79999999999995,
+            "end": 400.79999999999995,
+            "text": " Once they understand,"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 400.79999999999995,
+            "end": 402.79999999999995,
+            "text": " then we will obviously talk about projects in the future."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 402.79999999999995,
+            "end": 405.79999999999995,
+            "text": " Like we have made a lot of projects in Next JS of JavaScript."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 405.79999999999995,
+            "end": 408.79999999999995,
+            "text": " So those projects can try to convert them here."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 408.79999999999995,
+            "end": 410.79999999999995,
+            "text": " Or do fresh projects here."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 410.79999999999995,
+            "end": 412.79999999999995,
+            "text": " So we will get a good paradigm."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 412.79999999999995,
+            "end": 414.79999999999995,
+            "text": " So this is the thing"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 415.2,
+            "end": 418.2,
+            "text": " that we are going to learn, how and who should not worry."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 418.2,
+            "end": 421.2,
+            "text": " Python and Django are still a very powerful framework."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 421.2,
+            "end": 423.2,
+            "text": " And is used almost everywhere."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 423.2,
+            "end": 425.2,
+            "text": " So it will be good."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 425.2,
+            "end": 427.2,
+            "text": " You are getting a free series."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 427.2,
+            "end": 429.2,
+            "text": " You can do it here easily."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 429.2,
+            "end": 431.2,
+            "text": " In the meantime, those who have reached here in this launch video."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 431.2,
+            "end": 434.2,
+            "text": " The comment target of this video is 1000 comments."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 434.2,
+            "end": 436.2,
+            "text": " So all the people who have reached here"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 436.2,
+            "end": 438.2,
+            "text": " in the comment section, quickly complete the comment."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 438.2,
+            "end": 441.2,
+            "text": " Now let's talk about the video's pricing."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 441.2,
+            "end": 444.2,
+            "text": " The pricing of this entire series of videos is only that"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 444.59999999999997,
+            "end": 447.59999999999997,
+            "text": " you keep making support and comments."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 447.59999999999997,
+            "end": 449.59999999999997,
+            "text": " This is your fees."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 449.59999999999997,
+            "end": 451.59999999999997,
+            "text": " And you can't learn without fees."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 451.59999999999997,
+            "end": 453.59999999999997,
+            "text": " It is said that a Guru needs Guru Dakshina."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 453.59999999999997,
+            "end": 455.59999999999997,
+            "text": " So the Guru Dakshina of this entire series is that"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 455.59999999999997,
+            "end": 457.59999999999997,
+            "text": " every video should have a comment and share."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 457.59999999999997,
+            "end": 459.59999999999997,
+            "text": " Whatever platform it is, whether people are watching or not,"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 459.59999999999997,
+            "end": 461.59999999999997,
+            "text": " it doesn't matter."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 461.59999999999997,
+            "end": 463.59999999999997,
+            "text": " LinkedIn, Twitter, wherever you are active, share and a comment."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 463.59999999999997,
+            "end": 465.59999999999997,
+            "text": " That should be there."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 465.59999999999997,
+            "end": 467.59999999999997,
+            "text": " Now let's talk about the frequency of videos."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 467.59999999999997,
+            "end": 472.59999999999997,
+            "text": " So I will keep the frequency of this entire series a little laid back."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 473.0,
+            "end": 475.0,
+            "text": " Because in the past I kept the frequency a little too high."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 475.0,
+            "end": 477.0,
+            "text": " Many people couldn't follow it."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 477.0,
+            "end": 479.0,
+            "text": " I will keep the series a little laid back."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 479.0,
+            "end": 483.0,
+            "text": " So in a week, we will only bring 2 or 3 videos."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 483.0,
+            "end": 485.0,
+            "text": " But there will be good lengthy videos,"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 485.0,
+            "end": 487.0,
+            "text": " there will be a discussion and we will code well."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 487.0,
+            "end": 489.0,
+            "text": " The content will be written and in written format."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 489.0,
+            "end": 491.0,
+            "text": " So expect only 2 to 3 videos in this series."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 491.0,
+            "end": 493.0,
+            "text": " Now this series does not mean that"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 493.0,
+            "end": 495.0,
+            "text": " the rest of the content has ever been stopped on the channel."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 495.0,
+            "end": 497.0,
+            "text": " This has never happened before and it will not happen in the future."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 497.0,
+            "end": 499.0,
+            "text": " So whoever we are in the ecosystem of JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 499.0,
+            "end": 501.0,
+            "text": " or in the ecosystem of a database"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 501.4,
+            "end": 503.4,
+            "text": " or exploring something else,"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 503.4,
+            "end": 505.4,
+            "text": " we will keep doing it."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 505.4,
+            "end": 507.4,
+            "text": " But we will have a proper playlist."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 507.4,
+            "end": 509.4,
+            "text": " And as you know, when the playlist is complete,"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 509.4,
+            "end": 511.4,
+            "text": " a long form video also comes after that."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 511.4,
+            "end": 513.4,
+            "text": " So this is it."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 513.4,
+            "end": 515.4,
+            "text": " You don't need much."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 515.4,
+            "end": 517.4,
+            "text": " And there is no requirement for tools."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 517.4,
+            "end": 519.4,
+            "text": " Just install Python in the system."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 519.4,
+            "end": 521.4,
+            "text": " After that, install VS Code."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 521.4,
+            "end": 523.4,
+            "text": " Install ChaiTheme."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 523.4,
+            "end": 525.4,
+            "text": " That's it. You don't need anything else."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 525.4,
+            "end": 527.4,
+            "text": " If you need anything else, I will tell you."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 527.4,
+            "end": 529.4,
+            "text": " There is no special requirement."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 529.8,
+            "end": 531.8,
+            "text": " So subscribe to the channel."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 531.8,
+            "end": 533.8,
+            "text": " Because we have just started."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 533.8,
+            "end": 535.8,
+            "text": " So this was a small discussion with you"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 535.8,
+            "end": 537.8,
+            "text": " about what we are going to play with Django"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 537.8,
+            "end": 539.8,
+            "text": " and what we are going to enjoy."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 539.8,
+            "end": 541.8,
+            "text": " And we are going to do rapid development."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 541.8,
+            "end": 543.8,
+            "text": " So it will be a lot of fun."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 543.8,
+            "end": 545.8,
+            "text": " So spread it everywhere."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 545.8,
+            "end": 547.8,
+            "text": " Send it to all your friends."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 547.8,
+            "end": 549.8,
+            "text": " Yes, we have done a lot in JavaScript."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 549.8,
+            "end": 551.8,
+            "text": " And we will do more."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 551.8,
+            "end": 553.8,
+            "text": " But we will not leave Python."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 553.8,
+            "end": 555.8,
+            "text": " We will do mastery there too."
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 555.8,
+            "end": 557.8,
+            "text": " Bring tea. Code is ready."
+        }
+    ],
+    "text": " Hello, how are you all? Welcome to Chai Aur Code. Before we move to the video, first of all, thank you so much to all of you. It feels great to see how much you are sharing the channel, how many comments you are making. And the growth of the channel is very good. The channel is reaching almost every corner. It is one of the fastest growing channels. And we have always increased the quality of production. Whether it is audio quality, video quality, or content quality, we have always tried to raise the bar. And you all have also supported us a lot in the comments, appreciation, personal DMs, by sharing each story and incident. So first of all, thank you so much for all of that. You are doing your maximum as much as you can. And this is the big thing that you are spreading the channel as much as you can. You are contributing on your own. Thank you so much. Now let's come to our big launch. Often, there are launches in the world of EdTech. And it should be. This is a good thing. So this is our mega big launch. Whenever we launch, we launch big. And eventually, we bring one of the best series. So in this launch, there is another launch in front of you. This is web development with Python using Django. So the series of Chai and Django is starting with this video today. So what is Django? What are the prerequisites for this? What is the target audience of this playlist? We will talk about all of that. I would also like to tell you a little bit about video frequency in this video. What all do you need? What can we do in the end? And how will we open a new web development paradigm? There is a video on all of these. And yes, you will get the entire playlist on YouTube. Apart from this, you will also get blogs on ChaiCode.com. Which will be a complete walkthrough. Whatever we do in the course. Or whatever important points, code files, you will get all of that there. So I have written a lot of articles in this series. And I will write more in the future. So you will get all of that on ChaiCode.com. Everything else is on the channel. There is no problem. If you have not joined the Discord yet, then join there. There are a lot of mentors there who help you. All of that is also included with this. By the way, mock tests and resume reviews are also done there. Anyway, let's come back. First of all, we come to our prerequisites. To see this Chai and Django series, what all do you need to know about the prerequisites? It's small, not much. We will discuss a little bit on that too. So you only need these two things. Which you should know before jumping on Django. First of all, you should know Python. All the Python that I have made Chai and Python in this channel's playlist, you should know that. All the basic requirements like decorators, I have taken a lot of depth on that. I have covered the whole breadth and width. So you can see from there. If you feel that I have learned from somewhere else and have that much confidence, then also there is no problem. You can continue that too. Whichever favorite instructor you have learned from, that is also a good thing. Apart from this, we will not touch HTML and CSS much. I believe you know HTML. If you don't know, then there is a playlist for that too. As such, there is no need to worry about CSS. Changing the background color, changing the text color, moving the text from here to there, left, right, orientation. We will do this in small, not much extreme. Mostly we depend on libraries like Shadsea and Tailwind. So we will not write extreme CSS anywhere. So in case you know a little bit about how to make buttons. Basic buttons, not too high fancy. How to make basic buttons, how to change the background color, how to make text, how to make text large. That's it. Apart from that, there are no other prerequisites. Okay. Now let's come to what is the series targeted audience. This series is made according to the target of the web developer. That you have to explore web development. Web development is very powerful, especially in Python. Often people come from a single paradigm. What happens is that when you start the journey of development, then you make a language from a fan favorite of a language. Some people make JavaScript, some people PHP, some people Python. So they never want to shift from that paradigm. I think this is a mistake that you don't want to shift from the paradigm. You have made one thing God that React is everything. Or Node is everything. So you never know that there are other frameworks outside. Which is probably more powerful or less powerful. How can we believe that it is more powerful? Or we can give development in a rapid pace. Until you explore things, you will not know about it. Another advantage that comes from exploring a new paradigm. That many times you get more clearance of the previous paradigm. Suppose you have been coding in JavaScript for a long time. So when you see things here, how views are being made, how routes are being made, requests are being made. So you get a little clarity somewhere in the other set. That it works like this, it works like this. So this is also an important aspect. Now many people say that I have to do more JavaScript. No problem, you make your JavaScript strong. But when you feel that I make a project, then I sit in my free time and see Python. Another important thing, many people find Python a fan favorite language. They think that after learning Python, I can do web development, machine learning, AI. I can do exploration in all of these. And whatever models or whatever I am making, I would like to write them directly in Python. So in those cases too, Django FastAPI helps a lot. Let me tell you one important thing first. When you see this Django series, you will find many people in the comment section. In fact, you will also find them in your class. Who will say something like that performance does not come in Django. This seems to be the funniest situation to me. They are talking about performance. They are talking about bottlenecks. Whose own application has never seen 5,000 or 1 lakh users. One lakh is a very big number. Not even 5,000 or 10,000 users have seen it. Web development through Python is one of the fastest developments. And there are companies in lakhs, not thousands, but lakhs of companies who still use Django on production grade. Django is very powerful. And once you see how rapid development happens and what batteries are included. I mean, there are some things that you don't have to do. Already cooked in it. So once you see it, you will also feel that the JavaScript ecosystem is not so matured yet. Now this does not mean that we will leave the JavaScript ecosystem. No, we will do that too. So this is a small mindset and overview that what will come in the Django series. How? Django is a complete framework. We will try to understand this framework first. Because it has a lot of nuances. Once they understand, then we will obviously talk about projects in the future. Like we have made a lot of projects in Next JS of JavaScript. So those projects can try to convert them here. Or do fresh projects here. So we will get a good paradigm. So this is the thing that we are going to learn, how and who should not worry. Python and Django are still a very powerful framework. And is used almost everywhere. So it will be good. You are getting a free series. You can do it here easily. In the meantime, those who have reached here in this launch video. The comment target of this video is 1000 comments. So all the people who have reached here in the comment section, quickly complete the comment. Now let's talk about the video's pricing. The pricing of this entire series of videos is only that you keep making support and comments. This is your fees. And you can't learn without fees. It is said that a Guru needs Guru Dakshina. So the Guru Dakshina of this entire series is that every video should have a comment and share. Whatever platform it is, whether people are watching or not, it doesn't matter. LinkedIn, Twitter, wherever you are active, share and a comment. That should be there. Now let's talk about the frequency of videos. So I will keep the frequency of this entire series a little laid back. Because in the past I kept the frequency a little too high. Many people couldn't follow it. I will keep the series a little laid back. So in a week, we will only bring 2 or 3 videos. But there will be good lengthy videos, there will be a discussion and we will code well. The content will be written and in written format. So expect only 2 to 3 videos in this series. Now this series does not mean that the rest of the content has ever been stopped on the channel. This has never happened before and it will not happen in the future. So whoever we are in the ecosystem of JavaScript or in the ecosystem of a database or exploring something else, we will keep doing it. But we will have a proper playlist. And as you know, when the playlist is complete, a long form video also comes after that. So this is it. You don't need much. And there is no requirement for tools. Just install Python in the system. After that, install VS Code. Install ChaiTheme. That's it. You don't need anything else. If you need anything else, I will tell you. There is no special requirement. So subscribe to the channel. Because we have just started. So this was a small discussion with you about what we are going to play with Django and what we are going to enjoy. And we are going to do rapid development. So it will be a lot of fun. So spread it everywhere. Send it to all your friends. Yes, we have done a lot in JavaScript. And we will do more. But we will not leave Python. We will do mastery there too. Bring tea. Code is ready."
+}

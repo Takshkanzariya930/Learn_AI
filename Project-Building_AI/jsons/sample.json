@@ -1,0 +1,26 @@
+{
+    "chunk": [
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 0.0,
+            "end": 3.0,
+            "text": " Hello, how are you all?"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 3.0,
+            "end": 5.0,
+            "text": " Welcome to Chai Aur Code"
+        },
+        {
+            "number": "01",
+            "title": "Chai aur Django",
+            "start": 5.0,
+            "end": 10.0,
+            "text": " Before we move to the video, thank you so much to all of you"
+        }
+    ],
+    "text": " Hello, how are you all? Welcome to Chai Aur Code Before we move to the video, thank you so much to all of you"
+}
