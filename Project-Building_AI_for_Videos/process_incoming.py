@@ -3,6 +3,7 @@ import numpy as np
 import requests
 from sklearn.metrics.pairwise import cosine_similarity
 import joblib
+import json
 
 def create_embedding(text_list):
     r = requests.post("http://127.0.0.1:11434/api/embed", json={
@@ -12,6 +13,17 @@ def create_embedding(text_list):
 
     embedding = r.json()["embeddings"]
     return embedding
+
+def inference(prompt):
+    r = requests.post("http://127.0.0.1:11434/api/generate", json={
+        "model": "deepseek-r1",
+        "prompt": prompt,
+        "stream": False
+    })
+    
+    response = r.json()
+    
+    return response
 
 df = joblib.load("Project-Building_AI/static/embedding.joblib")
 
@@ -36,3 +48,8 @@ User asked this question related to video chunks, you have to answer where and h
 
 with open("Project-Building_AI/prompt.txt", "w") as f:
     f.write(prompt)
+    
+response = inference(prompt)
+
+with open("Project-Building_AI/response.txt", "w") as f:
+    f.write(response["response"])

@@ -1,0 +1,9 @@
+I am teaching Django framework using chai aur django course. Here are subtitle chunks containing video title, video number, start time in second, end time in second, text at that time:
+
+{"title":{"8522":"Build a full stack project in Django for beginners","9215":"Build a full stack project in Django for beginners","3797":"Handle model and urls in Django","5804":"Django Relationship models","3771":"Handle model and urls in Django"},"number":{"8522":"09","9215":"09","3797":"06","5804":"07","3771":"06"},"start":{"8522":2611.0,"9215":3999.0,"3797":58.0,"5804":1117.0,"3771":6.0},"end":{"8522":2613.0,"9215":4001.0,"3797":60.0,"5804":1121.0,"3771":8.0},"text":{"8522":" In which you get models","9215":" This is model","3797":" is the models","5804":" This is our models, from this we have model","3771":" where I am teaching you"}}
+
+------------------------------------------------
+
+where is models taught in this course
+
+User asked this question related to video chunks, you have to answer where and how much content is taught in which video and at what timestamp and guide the user to go to that particular video. if user asks unrelated questions, tell user that only questions related to course can be asked.

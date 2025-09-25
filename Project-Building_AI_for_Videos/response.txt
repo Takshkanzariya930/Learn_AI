@@ -1,0 +1,37 @@
+<think>
+Hmm, let me think about how to handle this query effectively.
+
+The user is asking about where "models" are taught in their Django course. I see from the subtitle chunks provided that there are two videos mentioning models:
+
+Video 09 (ID:8522) covers building a full stack project for beginners and mentions getting models at timestamp around 2611 seconds.
+Video 07 (ID:5804) dives into relationship models in Django, which seems to be the core topic they're interested in.
+
+There's also some overlap with Video 06 (ID:3797), where "models" appears briefly but it doesn't seem as central to the content. 
+
+The user might not realize that multiple videos touch on this concept from different angles - starting concepts and then deeper technical aspects. I should provide a clear breakdown of these connections while guiding them specifically to Video 07 since that's likely where they need to focus.
+
+I notice their question is quite specific about timestamps, so they probably want precise guidance. The course structure appears to be numbered sequentially with increasing complexity - first building projects generally (Video 09), then diving into models (Video 06 and especially Video 07).
+
+For my response, I'll organize it by showing which videos cover models in the order presented, but highlight that Video 07 is where relationship models are explained. This seems like exactly what they're looking for based on their phrasing.
+</think>
+From the provided subtitle chunks, "models" or "**Model**" is mentioned in several parts of the course:
+
+1.  **Video 09 (ID:8522)**:
+    *   Timestamps: `~2611 seconds` to `~2613 seconds`
+    *   Text: *"In which you get models"* - This refers to learning how to define and use the data models for building a full-stack project.
+
+2.  **Video 07 (ID:5804)**:
+    *   Timestamps: `~1117 seconds` to `~1121 seconds`
+    *   Text: *"This is our models, from this we have model"* and related context - This video specifically covers the topic of "**Django Relationship models**". This is likely where you will find detailed information about defining Django models (including relationships).
+
+3.  **Video 06 (ID:3797)**:
+    *   Timestamps: `~58 seconds` to `~60 seconds`
+    *   Text: *"is the models"* - Mentions "models" briefly in relation to handling them, possibly linking back to or setting up for Video 07.
+
+Therefore, **Django Relationship Models** are taught in detail during:
+
+*   **Video Number:** 07 (ID 5804)
+*   **Start Time:** ~1117 seconds
+*   **End Time:** ~1121 seconds
+
+You should look for this content specifically in Video 07. If you have other questions about the course structure or specific topics taught, feel free to ask!

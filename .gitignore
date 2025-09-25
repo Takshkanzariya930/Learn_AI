@@ -1,4 +1,7 @@
 *.pkl
-Project-Building_AI/videos
-Project-Building_AI/audios
-Project-Building_AI/static
+Project-Building_AI_for_Videos/videos
+Project-Building_AI_for_Videos/audios
+Project-Building_AI_for_Videos/static
+
+Project-Building_AI_for_PDFs/static
+Project-Building_AI_for_PDFs/PDFs
