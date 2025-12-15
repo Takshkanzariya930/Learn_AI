@@ -23,7 +23,7 @@ def inference(prompt):
     
     return response
 
-df = joblib.load("Project-Building_AI/static/embedding.joblib")
+df = joblib.load("Project-Building_AI_for_PDFs/static/embedding.joblib")
 
 incoming_query = input("Ask a Question : ")
 question_embedding = create_embedding([incoming_query])[0]
@@ -34,20 +34,20 @@ max_indices = similarity.flatten().argsort()[::-1][:5]
 
 new_df = df.loc[max_indices]
 
-prompt = f'''I am teaching Django framework using chai aur django course. Here are subtitle chunks containing video title, video number, start time in second, end time in second, text at that time:
+prompt = f'''I am using PDFs to locate and store information related to all sorts of thing and this are text chunks which contains pdf title, pdf number, page number of pdf and text on that page
 
-{new_df[["title", "number", "start", "end", "text"]].to_json()}
+{new_df[["title", "number", "page_no", "text"]].to_json()}
 
 ------------------------------------------------
 
 {incoming_query}
 
-User asked this question related to video chunks, you have to answer where and how much content is taught in which video and at what timestamp and guide the user to go to that particular video. if user asks unrelated questions, tell user that only questions related to course can be asked.'''
+User asked this question related to text chunk, you have to answer where and how much content is present in which PDF and at what page no and guide the user to go to that particular PDF. if user asks unrelated questions, tell user that only questions related to PDFs can be asked.'''
 
-with open("Project-Building_AI/prompt.txt", "w") as f:
+with open("Project-Building_AI_for_PDFs/prompt.txt", "w") as f:
     f.write(prompt)
     
 response = inference(prompt)
 
-with open("Project-Building_AI/response.txt", "w") as f:
+with open("Project-Building_AI_for_PDFs/response.txt", "w") as f:
     f.write(response["response"])

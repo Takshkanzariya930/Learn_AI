@@ -2,8 +2,6 @@ import requests
 import pandas as pd
 import json
 import os
-import numpy as np
-from sklearn.metrics.pairwise import cosine_similarity
 import joblib
 
 def create_embedding(text_list):
